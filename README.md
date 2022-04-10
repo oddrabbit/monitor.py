@@ -1,3 +1,8 @@
+**PURPOSE**
+------------
+
+I used this script in order to monitor my network at my old workplace.
+
 INSTALL
 --------
 
